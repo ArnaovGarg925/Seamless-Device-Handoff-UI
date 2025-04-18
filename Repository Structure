@@ -1,0 +1,18 @@
+seamless-device-handoff-ui/
+├── src/
+│   ├── components/
+│   │   ├── HandoffBanner.jsx
+│   │   └── ProgressSync.js
+│   ├── App.jsx
+│   └── index.js
+├── public/
+│   └── index.html
+├── screenshots/
+│   ├── handoff-banner.png
+│   └── cross-device-flow.png
+├── figma/
+│   └── seamless-handoff-design.fig
+├── .gitignore
+├── package.json
+├── README.md
+├── LICENSE
